@@ -1,0 +1,22 @@
+{
+    "editor.columnSelection": false,
+    "editor.detectIndentation": true,
+    "editor.autoClosingQuotes": "never",
+    "nothing": null,
+    "pi.approximation": 3.14159,
+    "python.formatting.autopep8Args": [
+        "--max-line-length",
+        "100"
+    ],
+    "githubIssues.queries": [
+        {
+            "label": "My Issues",
+            "query": "default"
+        }
+    ],
+    "debug.console.fontSize": 12,
+    "files.associations": {
+        ".ncx": "xml",
+        ".opf": "xml"
+    }
+}
