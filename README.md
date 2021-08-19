@@ -37,10 +37,10 @@ The book goes beyond functions and classes and teaches you to use Python and Qis
 15. Learning Briefly
 16. Appendix A Tools
 17. Appendix B. Staying current
-18. The Complete UniPoly Class
-19. The Complete Guitar Class Hierarchy
+18. Appendix C. The Complete UniPoly Class
+19. Appendix D. The Complete Guitar Class Hierarchy
 20. Appendix E. Notices
-21. Appendix D. Production Notes
+21. Appendix F. Production Notes
 
 
 
