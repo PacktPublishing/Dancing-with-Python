@@ -359,7 +359,7 @@ data = [[21, 14, 10, 9, 19],
 plt.bar(np.arange(1, len(data[0]) + 1), data[0],
         color="#505050", label="Team A")
 
-# draw the bart chart for Team B above that of Team A
+# draw the bar chart for Team B above that of Team A
 bar_chart = plt.bar(np.arange(1, len(data[1]) + 1), data[1],
                     color="#B0B0B0", label="Team B",
                     bottom=data[0])
